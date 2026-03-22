@@ -1,0 +1,5 @@
+{
+  "name": "AutoCAD Voice Plan",
+  "description": "App per disegnare planimetrie in stile AutoCAD tramite comandi vocali e manuali.",
+  "requestFramePermissions": ["microphone"]
+}
